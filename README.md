@@ -1,5 +1,4 @@
-### Hi there �🥑🥑🥑🥑
-🥑
+🥑🥑🥑🥑🥑
 
 ### Map Projects
 
@@ -16,5 +15,5 @@
 
 # For Fun Projects
 
-- [hanzi2reading](https://github.com/bdon/hanzi2reading) flexible serialization and conversion for Standard Chinese with multiple dictionaries and transcription systems
-- [80s.nyc](https://github.com/bdon/80s.nyc) 1980s street view of NYC
+- [hanzi2reading](https://github.com/bdon/hanzi2reading) - flexible serialization and conversion for Standard Chinese with multiple dictionaries and transcription systems
+- [80s.nyc](https://github.com/bdon/80s.nyc) - 1980s street view of NYC
