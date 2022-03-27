@@ -1,19 +1,5 @@
-### Hi there 👋
-
-<!--
-**bdon/bdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there �🥑🥑🥑🥑
+🥑
 
 ### Map Projects
 
@@ -22,6 +8,13 @@ Here are some ideas to get you started:
 - [OSM Express](https://github.com/protomaps/OSMExpress) - near-lossless, high performance transactional database for OpenStreetMap with S2-based spatial index
 - [Tippecanoe](https://github.com/protomaps/tippecanoe) - fork of original Tippecanoe for building vector tilesets
 
+# Stuff i'm interested in...
 
+- [MapLibre](https://github.com/maplibre) GL map renderer (see [sdf-glyph-tool](https://github.com/protomaps/sdf-glyph-tool))
+- [FlatGeobuf](https://github.com/flatgeobuf/flatgeobuf)
+- [S2 Geometry](https://github.com/google/s2geometry)
 
+# For Fun Projects
 
+- [hanzi2reading](https://github.com/bdon/hanzi2reading) flexible serialization and conversion for Standard Chinese with multiple dictionaries and transcription systems
+- [80s.nyc](https://github.com/bdon/80s.nyc) 1980s street view of NYC
