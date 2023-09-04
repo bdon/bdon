@@ -3,7 +3,8 @@
 ## Map Projects
 
 - [PMTiles](https://github.com/protomaps/PMTiles) - serverless, cloud-optimized archives for millions of map tiles
-- [protomaps.js](https://github.com/protomaps/protomaps.js) - simplicity-focused vector map renderer that works with Leaflet
+- [protomaps-leaflet](https://github.com/protomaps/protomaps-leaflet) - simplicity-focused vector map renderer that works with Leaflet
+- [basemaps](https://github.com/protomaps/basemaps) - vector cartography on OpenStreetMap
 - [OSM Express](https://github.com/protomaps/OSMExpress) - near-lossless, high performance transactional database for OpenStreetMap with S2-based spatial index
 - [felt/tippecanoe](https://github.com/felt/tippecanoe) - fork of original Tippecanoe for building vector tilesets
 - [maplibre/font-maker](https://github.com/maplibre/font-maker) font builder for GL maps
