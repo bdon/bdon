@@ -1,4 +1,4 @@
-🥑🥑🥑🥑🥑
+Support my work on [GitHub Sponsors](http://github.com/sponsors/protomaps)
 
 ## Map Projects
 
