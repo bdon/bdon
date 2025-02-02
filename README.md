@@ -27,7 +27,8 @@ Support my work on [GitHub Sponsors](http://github.com/sponsors/protomaps)
 ## Ecosystem projects
 
 - [maplibre/font-maker](https://github.com/maplibre/font-maker) font builder for GL maps
-- [OSM Express](https://github.com/protomaps/OSMExpress) - near-lossless, high performance transactional database for OpenStreetMap with S2-based spatial index
+- [OSM Express](https://github.com/bdon/OSMExpress) - near-lossless, high performance transactional database for OpenStreetMap with S2-based spatial index
+  [SliceOSM](https://github.com/SliceOSM) - fresh OSM data, a OpenStreetMap US Community Project
 - [felt/tippecanoe](https://github.com/felt/tippecanoe) - fork of original Tippecanoe for building vector tilesets
 
 ## For Fun Projects
